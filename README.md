@@ -17,7 +17,7 @@ script is meant to be read and executed interactively side-by-side.
 (And with the book at hand, too, of course!)
 
 If you want to whet your appetite for the book, take a look at these two
-posts on [BoingBoing](
+posts on [Boing Boing](
 https://boingboing.net/2015/07/27/escaping-the-maze.html) and [Tin
 House](
 https://tinhouse.com/lost-found-samuel-annis-on-christopher-mansons-maze/).
