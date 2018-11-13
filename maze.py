@@ -10,7 +10,7 @@
 # these aspects at your local library.
 #
 # Copyright (c) 2015 Aubrey Barnard.  This is free, open-source software
-# released under the MIT license.  See the LICENSE file for details.
+# released under the MIT license.  See the LICENSE.txt file for details.
 
 import heapq
 
